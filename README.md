@@ -1,4 +1,7 @@
+[![Build Status](https://travis-ci.org/vmaldosan/dockerised-react.svg?branch=master)](https://travis-ci.org/vmaldosan/dockerised-react)
+
 # React app in a Dockerised environment
+
 Based on section 6 of https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
